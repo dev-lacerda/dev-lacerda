@@ -1,6 +1,6 @@
 <div>
   <a href="https://github.com/dev-lacerda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devlacerda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devlacerda&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-lacerda&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
@@ -11,7 +11,7 @@
  
  <br>
  
-  ### Me segue a gente nas redes abaixo!
+  ### Me segue nas redes abaixo!
  
 <div> 
   
